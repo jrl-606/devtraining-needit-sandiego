@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_hardware" label="Infinity" max_length="40" name="x_58872_needit_u_cmdb_ci_hardware_infinity" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Device Number" max_length="40" name="device_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Device Notes" max_length="4000" name="device_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Device Version" max_length="40" name="device_version" type="string"/>
+    </element>
+</database>

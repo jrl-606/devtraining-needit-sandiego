@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment">
+    <dl_u_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assigned_to display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</assigned_to>
+        <assignment_group display_value="Hardware" name="Hardware">8a5055c9c61122780043563ef53438e3</assignment_group>
+        <category>hardware</category>
+        <cmdb_ci display_value="*ANNIE-IBM">b4fd7c8437201000deeabfc8bcbe5dc1</cmdb_ci>
+        <location display_value="1112 18th Street, Plano,TX">25aba2870a0a0bb300926e24d3a5528c</location>
+        <order>100</order>
+        <subcategory>keyboard</subcategory>
+        <sys_class_name>dl_u_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 17:41:56</sys_created_on>
+        <sys_id>d9a01e464742111060851bd8c26d436e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>dl_u_assignment_d9a01e464742111060851bd8c26d436e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 17:41:56</sys_updated_on>
+    </dl_u_assignment>
+</record_update>
